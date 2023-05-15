@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cristina</h1>
+<!-- EN CONSTRUCCION-->
+<h1 align="center">Hi 👋, I'm Claudia Villarroel</h1>
 <h3 align="center">Backend developer from Chile, living in New Zealand, passionate about learning new things</h3>
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 📫 How to reach me **candreanivera@gmail.com**
+- 📫 How to reach me **claudia.villarroel@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
