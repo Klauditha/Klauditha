@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klauditha" alt="klauditha" /></a> </p>
 
-- 🔭 I’m currently working as **.NET Developer in Eurofirms Group**
-
 - 🌱 I’m currently learning **Full Stack Javascript**
 
 - 📫 How to reach me **claudia.villarroel@live.com**
