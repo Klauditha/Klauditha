@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klauditha&show_icons=true&locale=es&theme=shades-of-purple" alt="klauditha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klauditha&theme=shades-of-purple" alt="klauditha" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=github-readme-stats)](https://github.com/klauditha/github-readme-stats)
