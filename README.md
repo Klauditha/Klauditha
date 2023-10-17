@@ -23,4 +23,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klauditha&theme=shades-of-purple" alt="klauditha" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=github-readme-stats)](https://github.com/klauditha/github-readme-stats)
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/klauditha/desafio_01react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio_01react&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/klauditha/desafio4_react_consumoAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio4_react_consumoAPI&theme=shades-of-purple" />
+</a>
