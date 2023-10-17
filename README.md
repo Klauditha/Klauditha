@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Claudia Villarroel</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klauditha&label=Profile%20views&color=0e75b6&style=flat" alt="klauditha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=klauditha&theme=shades-of-purple&label=Profile%20views&color=0e75b6&style=flat" alt="klauditha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klauditha" alt="klauditha" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Javascript**
+- 🌱 I’m currently learning **Full Stack Javascript** in **Vigatec**
 
 - 📫 How to reach me **claudia.villarroel@live.com**
 
