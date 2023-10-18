@@ -27,10 +27,18 @@
 
 #### Top Repositories
 
-
-<a href="https://github.com/klauditha/desafio_01react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio_01react&theme=shades-of-purple" />
+<a href="https://github.com/klauditha/proy_vet_react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=proy_vet_react&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/klauditha/desafio_cv_portafolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio_cv_portafolio&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/klauditha/desafio4_react_consumoAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio4_react_consumoAPI&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/klauditha/desafio3_listadoColaboradores">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio3_listadoColaboradores&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/klauditha/desafio2_componentesyeventos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio2_componentesyeventos&theme=shades-of-purple" />
 </a>
