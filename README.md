@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Claudia Villarroel</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klauditha&theme=shades-of-purple&label=Profile%20views&color=0e75b6&style=flat&theme=shades-of-purple" alt="klauditha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=klauditha&theme=shades-of-purple&label=Profile%20views&color=ff69b4&style=plastic" alt="klauditha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klauditha&theme=tokyonight&column=-1&row=1" alt="klauditha" /></a> </p>
 
@@ -41,4 +41,7 @@
 </a>
 <a href="https://github.com/klauditha/desafio2_componentesyeventos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio2_componentesyeventos&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/klauditha/desafio_01react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio_01react&theme=shades-of-purple" />
 </a>
