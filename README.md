@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klauditha&theme=tokyonight&column=-1&row=1" alt="klauditha" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Javascript** in **Vigatec**
+- 🌱 I’m currently learning **Full Stack Javascript** in **Desafio Latam**
 
 - 📫 How to reach me **claudia.villarroel@live.com**
 
@@ -26,7 +26,9 @@
 
 
 #### Top Repositories
-
+<a href="https://github.com/klauditha/desafio1_react2_HappyCake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio1_react2_HappyCake&theme=shades-of-purple" />
+</a>
 <a href="https://github.com/klauditha/proy_vet_react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=proy_vet_react&theme=shades-of-purple" />
 </a>
