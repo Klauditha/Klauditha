@@ -29,9 +29,6 @@
 <a href="https://github.com/klauditha/desafio1_react2_HappyCake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio1_react2_HappyCake&theme=shades-of-purple" />
 </a>
-<a href="https://github.com/klauditha/proy_vet_react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=proy_vet_react&theme=shades-of-purple" />
-</a>
 <a href="https://github.com/klauditha/desafio_cv_portafolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=klauditha&repo=desafio_cv_portafolio&theme=shades-of-purple" />
 </a>
