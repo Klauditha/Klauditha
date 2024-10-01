@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klauditha&theme=tokyonight&column=-1&row=1" alt="klauditha" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Javascript** in **Desafio Latam**
+- 🌱 I’m currently learning **Coderhouse**
 
 - 📫 How to reach me **claudia.villarroel@live.com**
 
